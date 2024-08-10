@@ -6,10 +6,10 @@ void main() {
 }
 
 class ForexApp extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      home: HomeScreen(),
-    );
-  }
+  // @override
+  // Widget build(BuildContext context) {
+  //   return MaterialApp(
+  //     home: HomeScreen(),
+  //   );
+  // }
 }
